@@ -1,4 +1,4 @@
-1.- Introducción al SQL
+1.- [Introducción al SQL](./subjects/sql_introcution.md)
 
 2.- XAMPP (instalación)
 
@@ -8,4 +8,6 @@
 
 5.- Relaciones
 
-6.- SElECT
+6.- ¿Qué es un query?
+
+7.- SElECT
