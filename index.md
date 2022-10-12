@@ -2,7 +2,7 @@
 
 2.- [XAMPP (instalación)](./subjects/XAMPP_installation.md)
 
-3.- phpMyAdmin
+3.- [phpMyAdmin](./subjects/phpmyadmin.md)
 
 4.- Tablas
 
