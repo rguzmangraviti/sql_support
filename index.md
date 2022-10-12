@@ -1,6 +1,6 @@
 1.- [Introducción al SQL](./subjects/sql_introcution.md)
 
-2.- XAMPP (instalación)
+2.- [XAMPP (instalación)](./subjects/XAMPP_installation.md)
 
 3.- phpMyAdmin
 
