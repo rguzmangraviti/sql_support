@@ -4,7 +4,7 @@
 
 3.- [phpMyAdmin](./subjects/phpmyadmin.md)
 
-4.- Tablas
+4.- [Tablas] (./subjects/tablas.md)
 
 5.- Relaciones
 
