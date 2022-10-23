@@ -9,21 +9,21 @@ Crear una base de datos es muy fácil, la configuración del servidor de tu pág
 //localhost/phpmyadmin
 //your_ip_address/phpmyadmin/
 
-Allí debemos elegir la pestaña “Base de datos”, debemos dar un nombre a la base de datos en el campo “Crear base de datos” y hacer clic en el botón “Crear”.
+Ahí debemos elegir la pestaña “Base de datos”, debemos dar un nombre a la base de datos en el campo “Crear base de datos” y hacer clic en el botón “Crear”.
 Debemos confirmar que la base de datos fue correctamente creada al buscarla en la pestaña “Bases de datos”.
 
 ## ¿Cómo crear tablas en PHPMyAdmin?
 
 Para la creación de una tabla en una base de datos debemos seleccionar la base de datos correspondiente.
-Allí encontraremos un cuadro donde nos permitirá crear una nueva tabla y debemos colocar un nombre junto con la cantidad de campos dentro de la tabla y haremos clic en el botón “Go”.
+Ahí encontraremos un cuadro donde nos permitirá crear una nueva tabla y debemos colocar un nombre junto con la cantidad de campos dentro de la tabla y haremos clic en el botón “Go”.
 
 Dentro de la nueva tabla podremos incluir los detalles dentro de cada campo.
 
-El primer campo deberá ser “Primary key”, es decir que se completara automáticamente (auto_increment) al agregar entradas nuevas a la tabla, este primer campo deberá llamarse “ID” y estará compuesto por un numero entero (Integer) de 4 caracteres de largo.
+El primer campo deberá ser “Primary key”, es decir que se completara automáticamente (auto_increment) al agregar entradas nuevas a la tabla, este primer campo deberá llamarse “id” y estará compuesto por un numero entero (Integer) de hasta 4 caracteres de largo.
 
 En el resto de los campos a completar serán campos CHAR (Carácter), debemos asegurarnos que la longitud (length) sea suficiente para ordenar los campos.
 
-Como ejemplo; el segundo campo llevará el nombre NAME, su tipo será CHAR y la longitud será de 100.
+Como ejemplo; el segundo campo llevará el nombre name, su tipo será CHAR(esto lo hace un campo donde se guardan números, letras y símbolos) y la longitud será de 100.
 
 Al terminar debemos hacer clic en el botón “Save” y nuestra tabla quedara oficialmente creada.
 
